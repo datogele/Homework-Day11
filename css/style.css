@@ -200,3 +200,42 @@
 	color:#000000;
 	
 }
+@media (max-width: 768px) {
+  .navigation {
+    display: none;
+      }
+  .social-ul{
+  	display:  none;
+  }
+  .about-boxes{
+  	flex-wrap: wrap;
+  }
+  .raket{
+  	margin-top: 40px;
+  }
+  .raket-img{
+  	padding-right: 530px;
+  }
+  .team{
+  	flex-wrap: wrap;
+  }
+  .kaci-1{
+  	margin-right: 150px;
+  }
+  .kaci-2{
+  	margin-right: 157px;
+  }
+  .kaci-3{
+  	margin-top: 150px;
+  }
+  .kaci-4{
+  	margin-right: 157px;
+  	margin-top: 150px;
+  }
+  .soc-a{
+  	display: none;
+  }
+  .Fourth-box{
+  	display: none;
+  }
+}
